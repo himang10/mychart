@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2025-04-15T14:27:06.001292+09:00"
+    description: A Helm chart for Kubernetes
+    digest: a9e5b9b84d90b9935c96001af4b1518e3e3022785b4100cbc15facbb665ac42b
+    name: mychart
+    type: application
+    urls:
+    - https://himang10.github.io/mychart/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-15T14:27:05.999209+09:00"
